@@ -1,4 +1,4 @@
-libname utd 'E:\Users\yxs180030\Downloads'; run;
+libname utd 'E:\Users\axt174830\Downloads'; run;
 
 
 proc sort data=utd.wen; by CUSTOMER_KEY; run;
